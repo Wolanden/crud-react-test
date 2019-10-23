@@ -1,4 +1,5 @@
 export interface Album{
-    Id: number;
-    Name: string;
+    id: number;
+    name: string;
+    interpret: string;
 }
